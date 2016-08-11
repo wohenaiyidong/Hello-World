@@ -1,2 +1,2 @@
 # Hello-World
-This is a tset file for studing GigHub.
+This is a test file for studing GigHub.
